@@ -1,0 +1,1 @@
+Esse programa apresenta um menu no terminal onde você seleciona as opções através dos números, as opções possíves são: abrir conta, listar clientes já cadastrados e seus respectivos saldos, fazer depósito, fazer saque, fechar conta ou fazer empréstimo.
